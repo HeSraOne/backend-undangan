@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Middleware;
-
 use Closure;
 use Core\Http\Request;
 use Core\Middleware\MiddlewareInterface;
